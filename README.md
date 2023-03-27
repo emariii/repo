@@ -12,8 +12,8 @@ To run the program, the following libraries are required:<br>
   - Mediapipe<br>
   - PyAutoGUI<br>
  
-### You can install these libraries using pip:<br>
+#### You can install these libraries using pip:<br>
   -  `pip install opencv-python mediapipe pyautogui`<br>
-### Or you can use the following command using pip to avoid any library version issue:<br>
+#### Or you can use the following command using pip to avoid any library version issue:<br>
   - `pip install -r requirements.txt`
 
