@@ -57,7 +57,7 @@ The repository includes some demo GIFs to help you understand how to use hand ge
     &nbsp;&nbsp;&nbsp;&nbsp; ![demo](https://user-images.githubusercontent.com/129029089/227974020-4e8c81a3-ef4f-47c8-ab46-f6737d15e4b8.gif)
 
 
-We hope these demos make it easier for you to get started with the program and learn how to use it effectively. If you have any questions or feedback, feel free to reach out to us!
+Hopfully these demos make it easier for you to get started with the program and learn how to use it effectively. If you have any questions or feedback, feel free to reach out to us!
 
 ## How it Works
 The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The `controller.py` file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking.
