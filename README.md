@@ -33,3 +33,12 @@ After installing the required libraries, run the `app.py` file in a Python envir
 The repository includes some demo GIFs to help you understand how to use hand gestures to control the mouse. The GIFs show the different hand gestures and their corresponding mouse actions in action, making it easy to follow along and learn how to use the program. To view the demo GIFs, simply navigate to the `demo/` folder in the repository and open the GIFs using any image viewer.<br>
 
 We hope these demos make it easier for you to get started with the program and learn how to use it effectively. If you have any questions or feedback, feel free to reach out to us!
+
+# How it Works
+The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The `controller.py` file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking.
+
+# Limitations
+The program currently only supports controlling a single mouse cursor, and it may not work well in low-light conditions.
+
+# License
+This project is licensed under the MIT License. Feel free to use, modify and distribute the code as you see fit.
