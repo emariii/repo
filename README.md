@@ -14,13 +14,13 @@ There is an extra file, `requirements.txt` which you can use to install the libr
  
 #### You can install these libraries using pip:<br>
   -  `pip install opencv-python mediapipe pyautogui`<br>
-#### Or you can use the following command using pip to avoid any library version issue:<br><br>
+#### Or you can use the following command using pip to avoid any library version issue:<br>
   - `pip install -r requirements.txt`
 
 ## How to Run
 After installing the required libraries, run the `app.py` file in a Python environment with a webcam. The program will start capturing video from the webcam, and the mouse cursor can be controlled using the following hand gestures:
 
-  - **Cursor moving**: Raise all fingers together and move your hand to move the cursor and control it.<br>
+  - **Cursor moving**: Raise all fingers together and move your hand to move the cursor and control it.<br><br>
 ![Mouse_moving](https://user-images.githubusercontent.com/129029089/227950094-4dae7a2d-a332-41ad-aa13-a186a5052f60.png)
 
   - **Cursor freezing**: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.
