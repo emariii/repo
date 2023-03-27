@@ -17,3 +17,15 @@ There is an extra file, `requirements.txt` which you can use to install the libr
 #### Or you can use the following command using pip to avoid any library version issue:<br>
   - `pip install -r requirements.txt`
 
+# How to Run
+After installing the required libraries, run the `app.py` file in a Python environment with a webcam. The program will start capturing video from the webcam, and the mouse cursor can be controlled using the following hand gestures:
+
+  - Drag and drop: Close your hand into a fist and move it around to drag and drop objects.
+  - Right-click: Raise your index finger while keeping the other fingers closed.
+  - Left-click: Raise your middle finger while keeping the other fingers closed.
+  - Double-click: Raise your index and middle finger while keeping the other fingers closed.
+  - Scroll up: Move your index and middle finger towards the screen.
+  - Scroll down: Move your index and middle finger away from the screen.
+  - Zoom in: Pinch your index finger and thumb together.
+  - Zoom out: Spread your index finger and thumb apart.
+
