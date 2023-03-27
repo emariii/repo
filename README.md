@@ -12,7 +12,7 @@ OpenCV<br>
 Mediapipe<br>
 PyAutoGUI<br>
 You can install these libraries using pip:<br>
-`pip install opencv-python mediapipe pyautogui`<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; `pip install opencv-python mediapipe pyautogui`<br>
 Or you can use the following command using pip to avoid any library version issue:<br>
-`pip install -r requirements.txt`
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; `pip install -r requirements.txt`
 
