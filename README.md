@@ -14,7 +14,7 @@ There is an extra file, `requirements.txt` which you can use to install the libr
  
 #### You can install these libraries using pip:<br>
   -  `pip install opencv-python mediapipe pyautogui`<br>
-#### Or you can use the following command using pip to avoid any library version issue:<br>
+#### Or you can use the following command using pip to avoid any library version issue:<br><br>
   - `pip install -r requirements.txt`
 
 ## How to Run
