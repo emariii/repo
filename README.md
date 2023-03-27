@@ -51,8 +51,10 @@ After installing the required libraries, run the `app.py` file in a Python envir
     &nbsp;&nbsp;&nbsp;&nbsp; ![Zooming_out](https://user-images.githubusercontent.com/129029089/227954586-4774546f-2611-482a-a722-52339ab57bb5.png)
 
 
+
 ## Demo
-The repository includes some demo GIFs to help you understand how to use hand gestures to control the mouse. The GIFs show the different hand gestures and their corresponding mouse actions in action, making it easy to follow along and learn how to use the program. To view the demo GIFs, simply navigate to the `demo/` folder in the repository and open the GIFs using any image viewer.<br>
+The repository includes some demo GIFs to help you understand how to use hand gestures to control the mouse. The GIFs show the different hand gestures and their corresponding mouse actions in action, making it easy to follow along and learn how to use the program. To view the demo GIFs, simply navigate to the `demo/` folder in the repository and open the GIFs using any image viewer.<br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
 
 We hope these demos make it easier for you to get started with the program and learn how to use it effectively. If you have any questions or feedback, feel free to reach out to us!
 
