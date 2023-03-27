@@ -17,7 +17,7 @@ There is an extra file, `requirements.txt` which you can use to install the libr
 #### Or you can use the following command using pip to avoid any library version issue:<br>
   - `pip install -r requirements.txt`
 
-# How to Run
+## How to Run
 After installing the required libraries, run the `app.py` file in a Python environment with a webcam. The program will start capturing video from the webcam, and the mouse cursor can be controlled using the following hand gestures:
 
   - **Drag and drop**: Close your hand into a fist and move it around to drag and drop objects.
@@ -29,16 +29,16 @@ After installing the required libraries, run the `app.py` file in a Python envir
   - **Zoom in**: Pinch your index finger and thumb together.
   - **Zoom out**: Spread your index finger and thumb apart.
 
-# Demo
+## Demo
 The repository includes some demo GIFs to help you understand how to use hand gestures to control the mouse. The GIFs show the different hand gestures and their corresponding mouse actions in action, making it easy to follow along and learn how to use the program. To view the demo GIFs, simply navigate to the `demo/` folder in the repository and open the GIFs using any image viewer.<br>
 
 We hope these demos make it easier for you to get started with the program and learn how to use it effectively. If you have any questions or feedback, feel free to reach out to us!
 
-# How it Works
+## How it Works
 The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The `controller.py` file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking.
 
-# Limitations
+## Limitations
 The program currently only supports controlling a single mouse cursor, and it may not work well in low-light conditions. It also doesn't support handling gestures of more than one hand, however this is easy to overcome, may be in comming commits of this project.
 
-# License
+## License
 This project is licensed under the MIT License. Feel free to use, modify and distribute the code as you see fit.
