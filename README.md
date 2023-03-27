@@ -38,7 +38,7 @@ We hope these demos make it easier for you to get started with the program and l
 The program uses the Mediapipe library to detect hand landmarks from the video captured by the webcam. The `controller.py` file contains the logic for mapping the hand landmarks to specific mouse cursor actions, such as movement and clicking.
 
 # Limitations
-The program currently only supports controlling a single mouse cursor, and it may not work well in low-light conditions.
+The program currently only supports controlling a single mouse cursor, and it may not work well in low-light conditions. It also doesn't support handling gestures of more than one hand, however this is easy to overcome, may be in comming commits of this project.
 
 # License
 This project is licensed under the MIT License. Feel free to use, modify and distribute the code as you see fit.
