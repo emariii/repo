@@ -29,3 +29,7 @@ After installing the required libraries, run the `app.py` file in a Python envir
   - Zoom in: Pinch your index finger and thumb together.
   - Zoom out: Spread your index finger and thumb apart.
 
+# Demo
+The repository includes some demo GIFs to help you understand how to use hand gestures to control the mouse. The GIFs show the different hand gestures and their corresponding mouse actions in action, making it easy to follow along and learn how to use the program. To view the demo GIFs, simply navigate to the `demo/` folder in the repository and open the GIFs using any image viewer.
+<br>
+We hope these demos make it easier for you to get started with the program and learn how to use it effectively. If you have any questions or feedback, feel free to reach out to us!
