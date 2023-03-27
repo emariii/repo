@@ -21,17 +21,25 @@ There is an extra file, `requirements.txt` which you can use to install the libr
 After installing the required libraries, run the `app.py` file in a Python environment with a webcam. The program will start capturing video from the webcam, and the mouse cursor can be controlled using the following hand gestures:
 
   - **Cursor moving**: Raise all fingers together and move your hand to move the cursor and control it.<br><br>
-![Mouse_moving](https://user-images.githubusercontent.com/129029089/227950094-4dae7a2d-a332-41ad-aa13-a186a5052f60.png)
+   &nbsp;&nbsp;&nbsp;&nbsp; ![Mouse_moving](https://user-images.githubusercontent.com/129029089/227950094-4dae7a2d-a332-41ad-aa13-a186a5052f60.png)
 
-  - **Cursor freezing**: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.
-  - **Drag and drop**: Close your hand into a fist and move it around to drag and drop objects.
-  - **Right-click**: Raise your index finger while keeping the other fingers closed.
-  - **Left-click**: Raise your middle finger while keeping the other fingers closed.
-  - **Double-click**: Raise your index and middle finger while keeping the other fingers closed.
-  - **Scroll up**: Move your index and middle finger towards the screen.
-  - **Scroll down**: Move your index and middle finger away from the screen.
-  - **Zoom in**: Pinch your index finger and thumb together.
-  - **Zoom out**: Spread your index finger and thumb apart.
+  - **Cursor freezing**: Close your thumb and Raise all other fingers together freeze the cursor and prevent it from moving.<br><br>
+
+  - **Drag and drop**: Close your hand into a fist and move it around to drag and drop objects.<br><br>
+
+  - **Right-click**: Raise your index finger while keeping the other fingers closed.<br><br>
+
+  - **Left-click**: Raise your middle finger while keeping the other fingers closed.<br><br>
+
+  - **Double-click**: Raise your index and middle finger while keeping the other fingers closed.<br><br>
+
+  - **Scroll up**: Move your index and middle finger towards the screen.<br><br>
+
+  - **Scroll down**: Move your index and middle finger away from the screen.<br><br>
+
+  - **Zoom in**: Pinch your index finger and thumb together.<br><br>
+
+  - **Zoom out**: Spread your index finger and thumb apart.<br><br>
 
 ## Demo
 The repository includes some demo GIFs to help you understand how to use hand gestures to control the mouse. The GIFs show the different hand gestures and their corresponding mouse actions in action, making it easy to follow along and learn how to use the program. To view the demo GIFs, simply navigate to the `demo/` folder in the repository and open the GIFs using any image viewer.<br>
