@@ -41,4 +41,7 @@ The program uses the Mediapipe library to detect hand landmarks from the video c
 The program currently only supports controlling a single mouse cursor, and it may not work well in low-light conditions. It also doesn't support handling gestures of more than one hand, however this is easy to overcome, may be in comming commits of this project.
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify and distribute the code as you see fit.
+
+This project is licensed under the Apache License 2.0. The Apache License 2.0 is a permissive license that allows you to freely use, modify, distribute, and sell the software.<br>
+
+Feel free to use, modify and distribute the code as you see fit under the terms of the Apache License 2.0. For more information, please refer to the LICENSE file in the root of the project directory.
