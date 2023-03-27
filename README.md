@@ -7,7 +7,7 @@ The project is divided into two files, `app.py` and `controller.py`. The `app.py
 There is an extra file, `requirements.txt` which you can use to install the libraries required for this project.
 
 ## Requirements
-To run the program, the following libraries are required:<br>
+#### To run the program, the following libraries are required:<br>
   - OpenCV<br>
   - Mediapipe<br>
   - PyAutoGUI<br>
